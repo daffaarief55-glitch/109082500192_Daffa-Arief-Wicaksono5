@@ -89,7 +89,7 @@ void FindNodeByRange(linkedlist list, float hargaAwal, float HargaAkhir);
 ```
 kode tersebut digunakan sebagai dasar untuk membuat program Singly Linked List yang menyimpan data buah. Di dalamnya terdapat struktur data dan deklarasi fungsi untuk menambahkan, menghapus, mengubah, menampilkan, serta mencari data buah. Dengan struktur ini, pengelolaan data dalam program C++ menjadi lebih rapi dan mudah dipahami.
 
-### 2. listBuah.cpp
+### 2.listBuah.cpp
 
 ```C++
 #include "listBuah.h"
@@ -458,6 +458,7 @@ Kode main() merupakan program utama untuk mengelola data buah menggunakan Singly
 
 ### 1. (isi dengan soal unguided 1)
 
+### 1.singlylist.h
 ```singlylist.h
 #ifndef SINGLYLIST_H_INCLUDED
 #define SINGLYLIST_H_INCLUDED
@@ -484,7 +485,7 @@ int totalInfo(const List &L);
 
 #endif 
 ```
-
+### 2.singlylist.cpp
 ```singlylist.cpp#include <iostream>
 #include "Singlylist.h"
 using namespace std;
@@ -543,6 +544,7 @@ int totalInfo(const List &L) {
 }
 ```
 
+### 3.main2.cpp
 ```main2.cpp
 #include <iostream>
 #include "Singlylist.h"
@@ -599,6 +601,7 @@ ketiga kode tersebut digunakan untuk membuat program Singly Linked List mengguna
 
 ### 2. (isi dengan soal unguided 2)
 
+### 1.sll.h
 ```sll.h
 
 #ifndef SLL_H_INCLUDED
@@ -631,6 +634,7 @@ address findElm(List L, infotype x);
 
 ```
 
+### 2.sll.cpp
 ```sll.cpp
 
 #include "SLL.h"
@@ -688,6 +692,7 @@ address findElm(List L, infotype x) {
 
 ```
 
+### 3.main3.cpp
 ```main3.cpp
 
 #include "SLL.h"
@@ -730,6 +735,7 @@ ketiga kode tersebut digunakan untuk membuat program Singly Linked List dengan b
 
 ### 3. (isi dengan soal unguided 3)
 
+### 1.soal4.h
 ```soal4.h
 
 #ifndef SOAL4_H_INCLUDED
@@ -762,6 +768,7 @@ int hitungTotalInfo(ListSoal4 L);
 
 ```
 
+### 2.soal4.cpp
 ```soal4.cpp
 
 #include "Soal4.h"
@@ -816,6 +823,7 @@ int hitungTotalInfo(ListSoal4 L) {
 
 ```
 
+### 3.main4.cpp
 ```main4.cpp
 #include <iostream>
 #include "soal4.h"

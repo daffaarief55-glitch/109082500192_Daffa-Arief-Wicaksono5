@@ -456,7 +456,24 @@ Kode main() merupakan program utama untuk mengelola data buah menggunakan Singly
 
 ## Unguided 
 
-### 1. (isi dengan soal unguided 1)
+### 1. Buatlah ADT Singly Linked List di dalam file Singlylist.h dengan ketentuan berikut:
+- Tipe infotype: int
+- Tipe address: pointer ke ElmList
+- Tipe ElmList terdiri atas:
+  - info: infotype
+  - next: address
+- Tipe List terdiri atas First bertipe address.
+Buat fungsi berikut:
+1. CreateList(input/output L: List)
+2. alokasi(x: infotype) → address
+3. dealokasi(input/output P: address)
+4. printInfo(input L: List)
+5. insertFirst(input/output L: List, input P: address)
+Kemudian, buat implementasi ADT Singly Linked List pada file Singlylist.cpp dan uji program menggunakan main.cpp.
+
+Data elemen yang harus dibentuk berdasarkan ilustrasi pada modul adalah:
+
+9 → 12 → 8 → 0 → 2
 
 ### 1.singlylist.h
 ```singlylist.h
@@ -599,7 +616,9 @@ int main() {
 
 ketiga kode tersebut digunakan untuk membuat program Singly Linked List menggunakan C++. Kode pertama berisi struktur data dan deklarasi fungsi, kode kedua berisi proses dari setiap fungsi, sedangkan kode ketiga digunakan untuk menjalankan program. Dari ketiga kode tersebut, kita bisa belajar cara menambah data, menampilkan isi list, mencari angka, menghitung total nilai, dan menghapus data dari memori.
 
-### 2. (isi dengan soal unguided 2)
+### 2.Carilah elemen dengan info bernilai 8 dengan membuat fungsi baru.
+Prototipe fungsi:
+address findElm(List L, infotype x);
 
 ### 1.sll.h
 ```sll.h
@@ -733,7 +752,9 @@ int main() {
 
 ketiga kode tersebut digunakan untuk membuat program Singly Linked List dengan bahasa C++. Kode pertama berisi struktur data dan deklarasi fungsi, kode kedua berisi implementasi fungsi, sedangkan kode ketiga digunakan untuk menjalankan program. Program ini dapat menambahkan data di akhir list, menampilkan seluruh data, dan mencari elemen berdasarkan nilai yang dimasukkan.
 
-### 3. (isi dengan soal unguided 3)
+### 3. Hitunglah jumlah total info seluruh elemen dalam list.
+Perhitungan:
+9 + 12 + 8 + 0 + 2 = 31
 
 ### 1.soal4.h
 ```soal4.h

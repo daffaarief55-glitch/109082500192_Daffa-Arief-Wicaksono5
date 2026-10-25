@@ -877,7 +877,7 @@ int main() {
 ketiga kode tersebut saling berhubungan untuk menjalankan program Singly Linked List menggunakan C++. Kode pertama berisi struktur data dan deklarasi fungsi, kode kedua berisi proses dari setiap fungsi, sedangkan kode ketiga digunakan untuk memasukkan data dan menghitung total nilainya. Dengan program ini, kita dapat memahami cara menambahkan data di akhir list dan menjumlahkan seluruh data yang tersimpan.
 
 ## Kesimpulan
-...
+Berdasarkan praktikum Modul 5 Struktur Data, Singly Linked List adalah struktur data yang setiap elemennya memiliki info untuk menyimpan data dan next untuk menunjuk ke elemen berikutnya. Sementara itu, First digunakan untuk menunjuk elemen pertama dalam list. Melalui praktikum ini, mahasiswa belajar cara membuat list, menambahkan elemen, menelusuri data, mencari nilai tertentu menggunakan fungsi findElm(), dan menghitung jumlah seluruh nilai yang ada di dalam list.
 
 ## Referensi
 [1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 

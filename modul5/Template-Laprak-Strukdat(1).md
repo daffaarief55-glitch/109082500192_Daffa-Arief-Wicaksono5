@@ -612,7 +612,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono5/blob/main/modul5/output_undguided/output1.png?raw=true)
 
 ketiga kode tersebut digunakan untuk membuat program Singly Linked List menggunakan C++. Kode pertama berisi struktur data dan deklarasi fungsi, kode kedua berisi proses dari setiap fungsi, sedangkan kode ketiga digunakan untuk menjalankan program. Dari ketiga kode tersebut, kita bisa belajar cara menambah data, menampilkan isi list, mencari angka, menghitung total nilai, dan menghapus data dari memori.
 
@@ -746,7 +746,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output2](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono5/blob/main/modul5/output_undguided/output2.png?raw=true)
 
 
 
@@ -871,7 +871,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![ouput3](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono5/blob/main/modul5/output_undguided/output3.png?raw=true)
 
 
 ketiga kode tersebut saling berhubungan untuk menjalankan program Singly Linked List menggunakan C++. Kode pertama berisi struktur data dan deklarasi fungsi, kode kedua berisi proses dari setiap fungsi, sedangkan kode ketiga digunakan untuk memasukkan data dan menghitung total nilainya. Dengan program ini, kita dapat memahami cara menambahkan data di akhir list dan menjumlahkan seluruh data yang tersimpan.
